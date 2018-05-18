@@ -37,7 +37,6 @@ if (a + c <= b)
         cout << a << endl;
 if (b + c <= a)
         if (b < c)
-        if (b < c)
         cout << c << endl;
         else
         cout << b << endl;
